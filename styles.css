@@ -1,0 +1,42 @@
+body {
+  background-color: black
+}
+
+h1 {
+  color: White;
+  margin-left: 20px;
+  font-family: Verdana;
+  font-size: 40px;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color:white;
+  margin:auto;
+  width:90%;
+  text-align: center;
+}
+video {
+  
+}
+.rectangle {
+ position:absolute;
+ top:40px;
+ left:100px;
+ width: 1000px;
+ height: 120px;
+ background: rgb(0, 119, 128);
+}
+.highlight {
+  background: rgb(0, 119, 128);
+  font-family: Verdana;
+  font-size: 20px;
+}
+.header {
+  color: White;
+  font-family:Verdana;
+}
+.big {
+  font-size: 50px
+}
